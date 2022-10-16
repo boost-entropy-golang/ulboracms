@@ -1,5 +1,5 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/Ulbora/ulboracms)](https://goreportcard.com/report/github.com/Ulbora/ulboracms)
-[![Build Status](https://travis-ci.org/Ulbora/ulboracms.svg?branch=master)](https://travis-ci.org/Ulbora/ulboracms)
+[![Build Status](https://travis-ci.com/Ulbora/ulboracms.svg?branch=master)](https://travis-ci.com/Ulbora/ulboracms)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ulboracms&metric=alert_status)](https://sonarcloud.io/dashboard?id=ulboracms)
 
 
@@ -17,7 +17,7 @@ UlboraCMS is a self-contained CMS (no database needed) written in Golang. It use
 
 ## Docker Container
 
-The easiest way to get Ulbora CMS is to use Docker.
+https://hub.docker.com/r/ulboralabs/ulboracms
 
 
 ## Templates
